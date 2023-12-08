@@ -41,8 +41,9 @@ lib/android/src/main/gen
 example/android/app/src/main/gen
 
 # build
-react-native-fast-image-*.tgz
-dist/
+# Do not ignore the following files so that they can be accessed through GitHub repo
+# react-native-fast-image-*.tgz
+# dist/
 
 # coverage reports
 coverage
